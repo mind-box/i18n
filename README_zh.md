@@ -15,4 +15,5 @@
 
 - English: [Jocs](https://github.com/Jocs)
 - Simplified Chinese: [Jocs](https://github.com/Jocs)
+- Japanese: WuJingwen
 

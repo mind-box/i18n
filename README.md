@@ -15,3 +15,4 @@ Since the MindBox is constantly iterating, so some new text will be added, so th
 
 - English by [Jocs](https://github.com/Jocs)
 - Simplified Chinese by [Jocs](https://github.com/Jocs)
+- Japanese by WuJingwen
