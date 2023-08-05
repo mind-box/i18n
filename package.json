@@ -1,0 +1,24 @@
+{
+  "name": "@marktext/i18n",
+  "version": "1.0.0",
+  "description": "i18n of MindBox",
+  "main": "locale-identifiers.json",
+  "module": "locale-identifiers.json",
+  "scripts": {
+    "pub": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mind-box/i18n.git"
+  },
+  "keywords": [
+    "i18n",
+    "mindbox"
+  ],
+  "author": "ransixi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mind-box/i18n/issues"
+  },
+  "homepage": "https://github.com/mind-box/i18n#readme"
+}

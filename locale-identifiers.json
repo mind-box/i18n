@@ -1,0 +1,2930 @@
+[
+  {
+    "Locale Identifier": "af",
+    "Description": "Afrikaans"
+  },
+  {
+    "Locale Identifier": "af-NA",
+    "Description": "Afrikaans (Namibia)"
+  },
+  {
+    "Locale Identifier": "af-ZA",
+    "Description": "Afrikaans (South Africa)"
+  },
+  {
+    "Locale Identifier": "agq",
+    "Description": "Aghem"
+  },
+  {
+    "Locale Identifier": "agq-CM",
+    "Description": "Aghem (Cameroon)"
+  },
+  {
+    "Locale Identifier": "ak",
+    "Description": "Akan"
+  },
+  {
+    "Locale Identifier": "ak-GH",
+    "Description": "Akan (Ghana)"
+  },
+  {
+    "Locale Identifier": "am",
+    "Description": "Amharic"
+  },
+  {
+    "Locale Identifier": "am-ET",
+    "Description": "Amharic (Ethiopia)"
+  },
+  {
+    "Locale Identifier": "ar",
+    "Description": "Arabic"
+  },
+  {
+    "Locale Identifier": "ar-001",
+    "Description": "Arabic (World)"
+  },
+  {
+    "Locale Identifier": "ar-AE",
+    "Description": "Arabic (United Arab Emirates)"
+  },
+  {
+    "Locale Identifier": "ar-BH",
+    "Description": "Arabic (Bahrain)"
+  },
+  {
+    "Locale Identifier": "ar-DJ",
+    "Description": "Arabic (Djibouti)"
+  },
+  {
+    "Locale Identifier": "ar-DZ",
+    "Description": "Arabic (Algeria)"
+  },
+  {
+    "Locale Identifier": "ar-EG",
+    "Description": "Arabic (Egypt)"
+  },
+  {
+    "Locale Identifier": "ar-EH",
+    "Description": "Arabic (Western Sahara)"
+  },
+  {
+    "Locale Identifier": "ar-ER",
+    "Description": "Arabic (Eritrea)"
+  },
+  {
+    "Locale Identifier": "ar-IL",
+    "Description": "Arabic (Israel)"
+  },
+  {
+    "Locale Identifier": "ar-IQ",
+    "Description": "Arabic (Iraq)"
+  },
+  {
+    "Locale Identifier": "ar-JO",
+    "Description": "Arabic (Jordan)"
+  },
+  {
+    "Locale Identifier": "ar-KM",
+    "Description": "Arabic (Comoros)"
+  },
+  {
+    "Locale Identifier": "ar-KW",
+    "Description": "Arabic (Kuwait)"
+  },
+  {
+    "Locale Identifier": "ar-LB",
+    "Description": "Arabic (Lebanon)"
+  },
+  {
+    "Locale Identifier": "ar-LY",
+    "Description": "Arabic (Libya)"
+  },
+  {
+    "Locale Identifier": "ar-MA",
+    "Description": "Arabic (Morocco)"
+  },
+  {
+    "Locale Identifier": "ar-MR",
+    "Description": "Arabic (Mauritania)"
+  },
+  {
+    "Locale Identifier": "ar-OM",
+    "Description": "Arabic (Oman)"
+  },
+  {
+    "Locale Identifier": "ar-PS",
+    "Description": "Arabic (Palestinian Territories)"
+  },
+  {
+    "Locale Identifier": "ar-QA",
+    "Description": "Arabic (Qatar)"
+  },
+  {
+    "Locale Identifier": "ar-SA",
+    "Description": "Arabic (Saudi Arabia)"
+  },
+  {
+    "Locale Identifier": "ar-SD",
+    "Description": "Arabic (Sudan)"
+  },
+  {
+    "Locale Identifier": "ar-SO",
+    "Description": "Arabic (Somalia)"
+  },
+  {
+    "Locale Identifier": "ar-SS",
+    "Description": "Arabic (South Sudan)"
+  },
+  {
+    "Locale Identifier": "ar-SY",
+    "Description": "Arabic (Syria)"
+  },
+  {
+    "Locale Identifier": "ar-TD",
+    "Description": "Arabic (Chad)"
+  },
+  {
+    "Locale Identifier": "ar-TN",
+    "Description": "Arabic (Tunisia)"
+  },
+  {
+    "Locale Identifier": "ar-YE",
+    "Description": "Arabic (Yemen)"
+  },
+  {
+    "Locale Identifier": "as",
+    "Description": "Assamese"
+  },
+  {
+    "Locale Identifier": "as-IN",
+    "Description": "Assamese (India)"
+  },
+  {
+    "Locale Identifier": "asa",
+    "Description": "Asu"
+  },
+  {
+    "Locale Identifier": "asa-TZ",
+    "Description": "Asu (Tanzania)"
+  },
+  {
+    "Locale Identifier": "az",
+    "Description": "Azerbaijani"
+  },
+  {
+    "Locale Identifier": "az-Cyrl",
+    "Description": "Azerbaijani (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "az-Cyrl-AZ",
+    "Description": "Azerbaijani (Cyrillic, Azerbaijan)"
+  },
+  {
+    "Locale Identifier": "az-Latn",
+    "Description": "Azerbaijani (Latin)"
+  },
+  {
+    "Locale Identifier": "az-Latn-AZ",
+    "Description": "Azerbaijani (Latin, Azerbaijan)"
+  },
+  {
+    "Locale Identifier": "bas",
+    "Description": "Basaa"
+  },
+  {
+    "Locale Identifier": "bas-CM",
+    "Description": "Basaa (Cameroon)"
+  },
+  {
+    "Locale Identifier": "be",
+    "Description": "Belarusian"
+  },
+  {
+    "Locale Identifier": "be-BY",
+    "Description": "Belarusian (Belarus)"
+  },
+  {
+    "Locale Identifier": "bem",
+    "Description": "Bemba"
+  },
+  {
+    "Locale Identifier": "bem-ZM",
+    "Description": "Bemba (Zambia)"
+  },
+  {
+    "Locale Identifier": "bez",
+    "Description": "Bena"
+  },
+  {
+    "Locale Identifier": "bez-TZ",
+    "Description": "Bena (Tanzania)"
+  },
+  {
+    "Locale Identifier": "bg",
+    "Description": "Bulgarian"
+  },
+  {
+    "Locale Identifier": "bg-BG",
+    "Description": "Bulgarian (Bulgaria)"
+  },
+  {
+    "Locale Identifier": "bm",
+    "Description": "Bambara"
+  },
+  {
+    "Locale Identifier": "bm-Latn",
+    "Description": "Bambara (Latin)"
+  },
+  {
+    "Locale Identifier": "bm-Latn-ML",
+    "Description": "Bambara (Latin, Mali)"
+  },
+  {
+    "Locale Identifier": "bn",
+    "Description": "Bengali"
+  },
+  {
+    "Locale Identifier": "bn-BD",
+    "Description": "Bengali (Bangladesh)"
+  },
+  {
+    "Locale Identifier": "bn-IN",
+    "Description": "Bengali (India)"
+  },
+  {
+    "Locale Identifier": "bo",
+    "Description": "Tibetan"
+  },
+  {
+    "Locale Identifier": "bo-CN",
+    "Description": "Tibetan (China)"
+  },
+  {
+    "Locale Identifier": "bo-IN",
+    "Description": "Tibetan (India)"
+  },
+  {
+    "Locale Identifier": "br",
+    "Description": "Breton"
+  },
+  {
+    "Locale Identifier": "br-FR",
+    "Description": "Breton (France)"
+  },
+  {
+    "Locale Identifier": "brx",
+    "Description": "Bodo"
+  },
+  {
+    "Locale Identifier": "brx-IN",
+    "Description": "Bodo (India)"
+  },
+  {
+    "Locale Identifier": "bs",
+    "Description": "Bosnian"
+  },
+  {
+    "Locale Identifier": "bs-Cyrl",
+    "Description": "Bosnian (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "bs-Cyrl-BA",
+    "Description": "Bosnian (Cyrillic, Bosnia & Herzegovina)"
+  },
+  {
+    "Locale Identifier": "bs-Latn",
+    "Description": "Bosnian (Latin)"
+  },
+  {
+    "Locale Identifier": "bs-Latn-BA",
+    "Description": "Bosnian (Latin, Bosnia & Herzegovina)"
+  },
+  {
+    "Locale Identifier": "ca",
+    "Description": "Catalan"
+  },
+  {
+    "Locale Identifier": "ca-AD",
+    "Description": "Catalan (Andorra)"
+  },
+  {
+    "Locale Identifier": "ca-ES",
+    "Description": "Catalan (Spain)"
+  },
+  {
+    "Locale Identifier": "ca-FR",
+    "Description": "Catalan (France)"
+  },
+  {
+    "Locale Identifier": "ca-IT",
+    "Description": "Catalan (Italy)"
+  },
+  {
+    "Locale Identifier": "cgg",
+    "Description": "Chiga"
+  },
+  {
+    "Locale Identifier": "cgg-UG",
+    "Description": "Chiga (Uganda)"
+  },
+  {
+    "Locale Identifier": "chr",
+    "Description": "Cherokee"
+  },
+  {
+    "Locale Identifier": "chr-US",
+    "Description": "Cherokee (United States)"
+  },
+  {
+    "Locale Identifier": "ckb",
+    "Description": "Central Kurdish"
+  },
+  {
+    "Locale Identifier": "ckb-IQ",
+    "Description": "Central Kurdish (Iraq)"
+  },
+  {
+    "Locale Identifier": "ckb-IR",
+    "Description": "Central Kurdish (Iran)"
+  },
+  {
+    "Locale Identifier": "cs",
+    "Description": "Czech"
+  },
+  {
+    "Locale Identifier": "cs-CZ",
+    "Description": "Czech (Czech Republic)"
+  },
+  {
+    "Locale Identifier": "cy",
+    "Description": "Welsh"
+  },
+  {
+    "Locale Identifier": "cy-GB",
+    "Description": "Welsh (United Kingdom)"
+  },
+  {
+    "Locale Identifier": "da",
+    "Description": "Danish"
+  },
+  {
+    "Locale Identifier": "da-DK",
+    "Description": "Danish (Denmark)"
+  },
+  {
+    "Locale Identifier": "da-GL",
+    "Description": "Danish (Greenland)"
+  },
+  {
+    "Locale Identifier": "dav",
+    "Description": "Taita"
+  },
+  {
+    "Locale Identifier": "dav-KE",
+    "Description": "Taita (Kenya)"
+  },
+  {
+    "Locale Identifier": "de",
+    "Description": "German"
+  },
+  {
+    "Locale Identifier": "de-AT",
+    "Description": "German (Austria)"
+  },
+  {
+    "Locale Identifier": "de-BE",
+    "Description": "German (Belgium)"
+  },
+  {
+    "Locale Identifier": "de-CH",
+    "Description": "German (Switzerland)"
+  },
+  {
+    "Locale Identifier": "de-DE",
+    "Description": "German (Germany)"
+  },
+  {
+    "Locale Identifier": "de-LI",
+    "Description": "German (Liechtenstein)"
+  },
+  {
+    "Locale Identifier": "de-LU",
+    "Description": "German (Luxembourg)"
+  },
+  {
+    "Locale Identifier": "dje",
+    "Description": "Zarma"
+  },
+  {
+    "Locale Identifier": "dje-NE",
+    "Description": "Zarma (Niger)"
+  },
+  {
+    "Locale Identifier": "dsb",
+    "Description": "Lower Sorbian"
+  },
+  {
+    "Locale Identifier": "dsb-DE",
+    "Description": "Lower Sorbian (Germany)"
+  },
+  {
+    "Locale Identifier": "dua",
+    "Description": "Duala"
+  },
+  {
+    "Locale Identifier": "dua-CM",
+    "Description": "Duala (Cameroon)"
+  },
+  {
+    "Locale Identifier": "dyo",
+    "Description": "Jola-Fonyi"
+  },
+  {
+    "Locale Identifier": "dyo-SN",
+    "Description": "Jola-Fonyi (Senegal)"
+  },
+  {
+    "Locale Identifier": "dz",
+    "Description": "Dzongkha"
+  },
+  {
+    "Locale Identifier": "dz-BT",
+    "Description": "Dzongkha (Bhutan)"
+  },
+  {
+    "Locale Identifier": "ebu",
+    "Description": "Embu"
+  },
+  {
+    "Locale Identifier": "ebu-KE",
+    "Description": "Embu (Kenya)"
+  },
+  {
+    "Locale Identifier": "ee",
+    "Description": "Ewe"
+  },
+  {
+    "Locale Identifier": "ee-GH",
+    "Description": "Ewe (Ghana)"
+  },
+  {
+    "Locale Identifier": "ee-TG",
+    "Description": "Ewe (Togo)"
+  },
+  {
+    "Locale Identifier": "el",
+    "Description": "Greek"
+  },
+  {
+    "Locale Identifier": "el-CY",
+    "Description": "Greek (Cyprus)"
+  },
+  {
+    "Locale Identifier": "el-GR",
+    "Description": "Greek (Greece)"
+  },
+  {
+    "Locale Identifier": "en",
+    "Description": "English"
+  },
+  {
+    "Locale Identifier": "en-001",
+    "Description": "English (World)"
+  },
+  {
+    "Locale Identifier": "en-150",
+    "Description": "English (Europe)"
+  },
+  {
+    "Locale Identifier": "en-AD",
+    "Description": "English (Andorra)"
+  },
+  {
+    "Locale Identifier": "en-AG",
+    "Description": "English (Antigua & Barbuda)"
+  },
+  {
+    "Locale Identifier": "en-AI",
+    "Description": "English (Anguilla)"
+  },
+  {
+    "Locale Identifier": "en-AL",
+    "Description": "English (Albania)"
+  },
+  {
+    "Locale Identifier": "en-AS",
+    "Description": "English (American Samoa)"
+  },
+  {
+    "Locale Identifier": "en-AT",
+    "Description": "English (Austria)"
+  },
+  {
+    "Locale Identifier": "en-AU",
+    "Description": "English (Australia)"
+  },
+  {
+    "Locale Identifier": "en-BA",
+    "Description": "English (Bosnia & Herzegovina)"
+  },
+  {
+    "Locale Identifier": "en-BB",
+    "Description": "English (Barbados)"
+  },
+  {
+    "Locale Identifier": "en-BE",
+    "Description": "English (Belgium)"
+  },
+  {
+    "Locale Identifier": "en-BM",
+    "Description": "English (Bermuda)"
+  },
+  {
+    "Locale Identifier": "en-BS",
+    "Description": "English (Bahamas)"
+  },
+  {
+    "Locale Identifier": "en-BW",
+    "Description": "English (Botswana)"
+  },
+  {
+    "Locale Identifier": "en-BZ",
+    "Description": "English (Belize)"
+  },
+  {
+    "Locale Identifier": "en-CA",
+    "Description": "English (Canada)"
+  },
+  {
+    "Locale Identifier": "en-CC",
+    "Description": "English (Cocos [Keeling] Islands)"
+  },
+  {
+    "Locale Identifier": "en-CH",
+    "Description": "English (Switzerland)"
+  },
+  {
+    "Locale Identifier": "en-CK",
+    "Description": "English (Cook Islands)"
+  },
+  {
+    "Locale Identifier": "en-CM",
+    "Description": "English (Cameroon)"
+  },
+  {
+    "Locale Identifier": "en-CX",
+    "Description": "English (Christmas Island)"
+  },
+  {
+    "Locale Identifier": "en-CY",
+    "Description": "English (Cyprus)"
+  },
+  {
+    "Locale Identifier": "en-CZ",
+    "Description": "English (Czech Republic)"
+  },
+  {
+    "Locale Identifier": "en-DE",
+    "Description": "English (Germany)"
+  },
+  {
+    "Locale Identifier": "en-DG",
+    "Description": "English (Diego Garcia)"
+  },
+  {
+    "Locale Identifier": "en-DK",
+    "Description": "English (Denmark)"
+  },
+  {
+    "Locale Identifier": "en-DM",
+    "Description": "English (Dominica)"
+  },
+  {
+    "Locale Identifier": "en-EE",
+    "Description": "English (Estonia)"
+  },
+  {
+    "Locale Identifier": "en-ER",
+    "Description": "English (Eritrea)"
+  },
+  {
+    "Locale Identifier": "en-ES",
+    "Description": "English (Spain)"
+  },
+  {
+    "Locale Identifier": "en-FI",
+    "Description": "English (Finland)"
+  },
+  {
+    "Locale Identifier": "en-FJ",
+    "Description": "English (Fiji)"
+  },
+  {
+    "Locale Identifier": "en-FK",
+    "Description": "English (Falkland Islands)"
+  },
+  {
+    "Locale Identifier": "en-FM",
+    "Description": "English (Micronesia)"
+  },
+  {
+    "Locale Identifier": "en-FR",
+    "Description": "English (France)"
+  },
+  {
+    "Locale Identifier": "en-GB",
+    "Description": "English (United Kingdom)"
+  },
+  {
+    "Locale Identifier": "en-GD",
+    "Description": "English (Grenada)"
+  },
+  {
+    "Locale Identifier": "en-GG",
+    "Description": "English (Guernsey)"
+  },
+  {
+    "Locale Identifier": "en-GH",
+    "Description": "English (Ghana)"
+  },
+  {
+    "Locale Identifier": "en-GI",
+    "Description": "English (Gibraltar)"
+  },
+  {
+    "Locale Identifier": "en-GM",
+    "Description": "English (Gambia)"
+  },
+  {
+    "Locale Identifier": "en-GR",
+    "Description": "English (Greece)"
+  },
+  {
+    "Locale Identifier": "en-GU",
+    "Description": "English (Guam)"
+  },
+  {
+    "Locale Identifier": "en-GY",
+    "Description": "English (Guyana)"
+  },
+  {
+    "Locale Identifier": "en-HK",
+    "Description": "English (Hong Kong SAR China)"
+  },
+  {
+    "Locale Identifier": "en-HR",
+    "Description": "English (Croatia)"
+  },
+  {
+    "Locale Identifier": "en-HU",
+    "Description": "English (Hungary)"
+  },
+  {
+    "Locale Identifier": "en-IE",
+    "Description": "English (Ireland)"
+  },
+  {
+    "Locale Identifier": "en-IL",
+    "Description": "English (Israel)"
+  },
+  {
+    "Locale Identifier": "en-IM",
+    "Description": "English (Isle of Man)"
+  },
+  {
+    "Locale Identifier": "en-IN",
+    "Description": "English (India)"
+  },
+  {
+    "Locale Identifier": "en-IO",
+    "Description": "English (British Indian Ocean Territory)"
+  },
+  {
+    "Locale Identifier": "en-IS",
+    "Description": "English (Iceland)"
+  },
+  {
+    "Locale Identifier": "en-IT",
+    "Description": "English (Italy)"
+  },
+  {
+    "Locale Identifier": "en-JE",
+    "Description": "English (Jersey)"
+  },
+  {
+    "Locale Identifier": "en-JM",
+    "Description": "English (Jamaica)"
+  },
+  {
+    "Locale Identifier": "en-KE",
+    "Description": "English (Kenya)"
+  },
+  {
+    "Locale Identifier": "en-KI",
+    "Description": "English (Kiribati)"
+  },
+  {
+    "Locale Identifier": "en-KN",
+    "Description": "English (St. Kitts & Nevis)"
+  },
+  {
+    "Locale Identifier": "en-KY",
+    "Description": "English (Cayman Islands)"
+  },
+  {
+    "Locale Identifier": "en-LC",
+    "Description": "English (St. Lucia)"
+  },
+  {
+    "Locale Identifier": "en-LR",
+    "Description": "English (Liberia)"
+  },
+  {
+    "Locale Identifier": "en-LS",
+    "Description": "English (Lesotho)"
+  },
+  {
+    "Locale Identifier": "en-LT",
+    "Description": "English (Lithuania)"
+  },
+  {
+    "Locale Identifier": "en-LU",
+    "Description": "English (Luxembourg)"
+  },
+  {
+    "Locale Identifier": "en-LV",
+    "Description": "English (Latvia)"
+  },
+  {
+    "Locale Identifier": "en-ME",
+    "Description": "English (Montenegro)"
+  },
+  {
+    "Locale Identifier": "en-MG",
+    "Description": "English (Madagascar)"
+  },
+  {
+    "Locale Identifier": "en-MH",
+    "Description": "English (Marshall Islands)"
+  },
+  {
+    "Locale Identifier": "en-MO",
+    "Description": "English (Macau SAR China)"
+  },
+  {
+    "Locale Identifier": "en-MP",
+    "Description": "English (Northern Mariana Islands)"
+  },
+  {
+    "Locale Identifier": "en-MS",
+    "Description": "English (Montserrat)"
+  },
+  {
+    "Locale Identifier": "en-MT",
+    "Description": "English (Malta)"
+  },
+  {
+    "Locale Identifier": "en-MU",
+    "Description": "English (Mauritius)"
+  },
+  {
+    "Locale Identifier": "en-MW",
+    "Description": "English (Malawi)"
+  },
+  {
+    "Locale Identifier": "en-MY",
+    "Description": "English (Malaysia)"
+  },
+  {
+    "Locale Identifier": "en-NA",
+    "Description": "English (Namibia)"
+  },
+  {
+    "Locale Identifier": "en-NF",
+    "Description": "English (Norfolk Island)"
+  },
+  {
+    "Locale Identifier": "en-NG",
+    "Description": "English (Nigeria)"
+  },
+  {
+    "Locale Identifier": "en-NL",
+    "Description": "English (Netherlands)"
+  },
+  {
+    "Locale Identifier": "en-NO",
+    "Description": "English (Norway)"
+  },
+  {
+    "Locale Identifier": "en-NR",
+    "Description": "English (Nauru)"
+  },
+  {
+    "Locale Identifier": "en-NU",
+    "Description": "English (Niue)"
+  },
+  {
+    "Locale Identifier": "en-NZ",
+    "Description": "English (New Zealand)"
+  },
+  {
+    "Locale Identifier": "en-PG",
+    "Description": "English (Papua New Guinea)"
+  },
+  {
+    "Locale Identifier": "en-PH",
+    "Description": "English (Philippines)"
+  },
+  {
+    "Locale Identifier": "en-PK",
+    "Description": "English (Pakistan)"
+  },
+  {
+    "Locale Identifier": "en-PL",
+    "Description": "English (Poland)"
+  },
+  {
+    "Locale Identifier": "en-PN",
+    "Description": "English (Pitcairn Islands)"
+  },
+  {
+    "Locale Identifier": "en-PR",
+    "Description": "English (Puerto Rico)"
+  },
+  {
+    "Locale Identifier": "en-PT",
+    "Description": "English (Portugal)"
+  },
+  {
+    "Locale Identifier": "en-PW",
+    "Description": "English (Palau)"
+  },
+  {
+    "Locale Identifier": "en-RO",
+    "Description": "English (Romania)"
+  },
+  {
+    "Locale Identifier": "en-RU",
+    "Description": "English (Russia)"
+  },
+  {
+    "Locale Identifier": "en-RW",
+    "Description": "English (Rwanda)"
+  },
+  {
+    "Locale Identifier": "en-SB",
+    "Description": "English (Solomon Islands)"
+  },
+  {
+    "Locale Identifier": "en-SC",
+    "Description": "English (Seychelles)"
+  },
+  {
+    "Locale Identifier": "en-SD",
+    "Description": "English (Sudan)"
+  },
+  {
+    "Locale Identifier": "en-SE",
+    "Description": "English (Sweden)"
+  },
+  {
+    "Locale Identifier": "en-SG",
+    "Description": "English (Singapore)"
+  },
+  {
+    "Locale Identifier": "en-SH",
+    "Description": "English (St. Helena)"
+  },
+  {
+    "Locale Identifier": "en-SI",
+    "Description": "English (Slovenia)"
+  },
+  {
+    "Locale Identifier": "en-SK",
+    "Description": "English (Slovakia)"
+  },
+  {
+    "Locale Identifier": "en-SL",
+    "Description": "English (Sierra Leone)"
+  },
+  {
+    "Locale Identifier": "en-SS",
+    "Description": "English (South Sudan)"
+  },
+  {
+    "Locale Identifier": "en-SX",
+    "Description": "English (Sint Maarten)"
+  },
+  {
+    "Locale Identifier": "en-SZ",
+    "Description": "English (Swaziland)"
+  },
+  {
+    "Locale Identifier": "en-TC",
+    "Description": "English (Turks & Caicos Islands)"
+  },
+  {
+    "Locale Identifier": "en-TK",
+    "Description": "English (Tokelau)"
+  },
+  {
+    "Locale Identifier": "en-TO",
+    "Description": "English (Tonga)"
+  },
+  {
+    "Locale Identifier": "en-TR",
+    "Description": "English (Turkey)"
+  },
+  {
+    "Locale Identifier": "en-TT",
+    "Description": "English (Trinidad & Tobago)"
+  },
+  {
+    "Locale Identifier": "en-TV",
+    "Description": "English (Tuvalu)"
+  },
+  {
+    "Locale Identifier": "en-TZ",
+    "Description": "English (Tanzania)"
+  },
+  {
+    "Locale Identifier": "en-UG",
+    "Description": "English (Uganda)"
+  },
+  {
+    "Locale Identifier": "en-UM",
+    "Description": "English (U.S. Outlying Islands)"
+  },
+  {
+    "Locale Identifier": "en-US",
+    "Description": "English (United States)"
+  },
+  {
+    "Locale Identifier": "en-US-POSIX",
+    "Description": "English (United States, Computer)"
+  },
+  {
+    "Locale Identifier": "en-VC",
+    "Description": "English (St. Vincent & Grenadines)"
+  },
+  {
+    "Locale Identifier": "en-VG",
+    "Description": "English (British Virgin Islands)"
+  },
+  {
+    "Locale Identifier": "en-VI",
+    "Description": "English (U.S. Virgin Islands)"
+  },
+  {
+    "Locale Identifier": "en-VU",
+    "Description": "English (Vanuatu)"
+  },
+  {
+    "Locale Identifier": "en-WS",
+    "Description": "English (Samoa)"
+  },
+  {
+    "Locale Identifier": "en-ZA",
+    "Description": "English (South Africa)"
+  },
+  {
+    "Locale Identifier": "en-ZM",
+    "Description": "English (Zambia)"
+  },
+  {
+    "Locale Identifier": "en-ZW",
+    "Description": "English (Zimbabwe)"
+  },
+  {
+    "Locale Identifier": "eo",
+    "Description": "Esperanto"
+  },
+  {
+    "Locale Identifier": "es",
+    "Description": "Spanish"
+  },
+  {
+    "Locale Identifier": "es-419",
+    "Description": "Spanish (Latin America)"
+  },
+  {
+    "Locale Identifier": "es-AR",
+    "Description": "Spanish (Argentina)"
+  },
+  {
+    "Locale Identifier": "es-BO",
+    "Description": "Spanish (Bolivia)"
+  },
+  {
+    "Locale Identifier": "es-CL",
+    "Description": "Spanish (Chile)"
+  },
+  {
+    "Locale Identifier": "es-CO",
+    "Description": "Spanish (Colombia)"
+  },
+  {
+    "Locale Identifier": "es-CR",
+    "Description": "Spanish (Costa Rica)"
+  },
+  {
+    "Locale Identifier": "es-CU",
+    "Description": "Spanish (Cuba)"
+  },
+  {
+    "Locale Identifier": "es-DO",
+    "Description": "Spanish (Dominican Republic)"
+  },
+  {
+    "Locale Identifier": "es-EA",
+    "Description": "Spanish (Ceuta & Melilla)"
+  },
+  {
+    "Locale Identifier": "es-EC",
+    "Description": "Spanish (Ecuador)"
+  },
+  {
+    "Locale Identifier": "es-ES",
+    "Description": "Spanish (Spain)"
+  },
+  {
+    "Locale Identifier": "es-GQ",
+    "Description": "Spanish (Equatorial Guinea)"
+  },
+  {
+    "Locale Identifier": "es-GT",
+    "Description": "Spanish (Guatemala)"
+  },
+  {
+    "Locale Identifier": "es-HN",
+    "Description": "Spanish (Honduras)"
+  },
+  {
+    "Locale Identifier": "es-IC",
+    "Description": "Spanish (Canary Islands)"
+  },
+  {
+    "Locale Identifier": "es-MX",
+    "Description": "Spanish (Mexico)"
+  },
+  {
+    "Locale Identifier": "es-NI",
+    "Description": "Spanish (Nicaragua)"
+  },
+  {
+    "Locale Identifier": "es-PA",
+    "Description": "Spanish (Panama)"
+  },
+  {
+    "Locale Identifier": "es-PE",
+    "Description": "Spanish (Peru)"
+  },
+  {
+    "Locale Identifier": "es-PH",
+    "Description": "Spanish (Philippines)"
+  },
+  {
+    "Locale Identifier": "es-PR",
+    "Description": "Spanish (Puerto Rico)"
+  },
+  {
+    "Locale Identifier": "es-PY",
+    "Description": "Spanish (Paraguay)"
+  },
+  {
+    "Locale Identifier": "es-SV",
+    "Description": "Spanish (El Salvador)"
+  },
+  {
+    "Locale Identifier": "es-US",
+    "Description": "Spanish (United States)"
+  },
+  {
+    "Locale Identifier": "es-UY",
+    "Description": "Spanish (Uruguay)"
+  },
+  {
+    "Locale Identifier": "es-VE",
+    "Description": "Spanish (Venezuela)"
+  },
+  {
+    "Locale Identifier": "et",
+    "Description": "Estonian"
+  },
+  {
+    "Locale Identifier": "et-EE",
+    "Description": "Estonian (Estonia)"
+  },
+  {
+    "Locale Identifier": "eu",
+    "Description": "Basque"
+  },
+  {
+    "Locale Identifier": "eu-ES",
+    "Description": "Basque (Spain)"
+  },
+  {
+    "Locale Identifier": "ewo",
+    "Description": "Ewondo"
+  },
+  {
+    "Locale Identifier": "ewo-CM",
+    "Description": "Ewondo (Cameroon)"
+  },
+  {
+    "Locale Identifier": "fa",
+    "Description": "Persian"
+  },
+  {
+    "Locale Identifier": "fa-AF",
+    "Description": "Persian (Afghanistan)"
+  },
+  {
+    "Locale Identifier": "fa-IR",
+    "Description": "Persian (Iran)"
+  },
+  {
+    "Locale Identifier": "ff",
+    "Description": "Fulah"
+  },
+  {
+    "Locale Identifier": "ff-CM",
+    "Description": "Fulah (Cameroon)"
+  },
+  {
+    "Locale Identifier": "ff-GN",
+    "Description": "Fulah (Guinea)"
+  },
+  {
+    "Locale Identifier": "ff-MR",
+    "Description": "Fulah (Mauritania)"
+  },
+  {
+    "Locale Identifier": "ff-SN",
+    "Description": "Fulah (Senegal)"
+  },
+  {
+    "Locale Identifier": "fi",
+    "Description": "Finnish"
+  },
+  {
+    "Locale Identifier": "fi-FI",
+    "Description": "Finnish (Finland)"
+  },
+  {
+    "Locale Identifier": "fil",
+    "Description": "Filipino"
+  },
+  {
+    "Locale Identifier": "fil-PH",
+    "Description": "Filipino (Philippines)"
+  },
+  {
+    "Locale Identifier": "fo",
+    "Description": "Faroese"
+  },
+  {
+    "Locale Identifier": "fo-FO",
+    "Description": "Faroese (Faroe Islands)"
+  },
+  {
+    "Locale Identifier": "fr",
+    "Description": "French"
+  },
+  {
+    "Locale Identifier": "fr-BE",
+    "Description": "French (Belgium)"
+  },
+  {
+    "Locale Identifier": "fr-BF",
+    "Description": "French (Burkina Faso)"
+  },
+  {
+    "Locale Identifier": "fr-BI",
+    "Description": "French (Burundi)"
+  },
+  {
+    "Locale Identifier": "fr-BJ",
+    "Description": "French (Benin)"
+  },
+  {
+    "Locale Identifier": "fr-BL",
+    "Description": "French (St. Barthélemy)"
+  },
+  {
+    "Locale Identifier": "fr-CA",
+    "Description": "French (Canada)"
+  },
+  {
+    "Locale Identifier": "fr-CD",
+    "Description": "French (Congo - Kinshasa)"
+  },
+  {
+    "Locale Identifier": "fr-CF",
+    "Description": "French (Central African Republic)"
+  },
+  {
+    "Locale Identifier": "fr-CG",
+    "Description": "French (Congo - Brazzaville)"
+  },
+  {
+    "Locale Identifier": "fr-CH",
+    "Description": "French (Switzerland)"
+  },
+  {
+    "Locale Identifier": "fr-CI",
+    "Description": "French (Côte d’Ivoire)"
+  },
+  {
+    "Locale Identifier": "fr-CM",
+    "Description": "French (Cameroon)"
+  },
+  {
+    "Locale Identifier": "fr-DJ",
+    "Description": "French (Djibouti)"
+  },
+  {
+    "Locale Identifier": "fr-DZ",
+    "Description": "French (Algeria)"
+  },
+  {
+    "Locale Identifier": "fr-FR",
+    "Description": "French (France)"
+  },
+  {
+    "Locale Identifier": "fr-GA",
+    "Description": "French (Gabon)"
+  },
+  {
+    "Locale Identifier": "fr-GF",
+    "Description": "French (French Guiana)"
+  },
+  {
+    "Locale Identifier": "fr-GN",
+    "Description": "French (Guinea)"
+  },
+  {
+    "Locale Identifier": "fr-GP",
+    "Description": "French (Guadeloupe)"
+  },
+  {
+    "Locale Identifier": "fr-GQ",
+    "Description": "French (Equatorial Guinea)"
+  },
+  {
+    "Locale Identifier": "fr-HT",
+    "Description": "French (Haiti)"
+  },
+  {
+    "Locale Identifier": "fr-KM",
+    "Description": "French (Comoros)"
+  },
+  {
+    "Locale Identifier": "fr-LU",
+    "Description": "French (Luxembourg)"
+  },
+  {
+    "Locale Identifier": "fr-MA",
+    "Description": "French (Morocco)"
+  },
+  {
+    "Locale Identifier": "fr-MC",
+    "Description": "French (Monaco)"
+  },
+  {
+    "Locale Identifier": "fr-MF",
+    "Description": "French (St. Martin)"
+  },
+  {
+    "Locale Identifier": "fr-MG",
+    "Description": "French (Madagascar)"
+  },
+  {
+    "Locale Identifier": "fr-ML",
+    "Description": "French (Mali)"
+  },
+  {
+    "Locale Identifier": "fr-MQ",
+    "Description": "French (Martinique)"
+  },
+  {
+    "Locale Identifier": "fr-MR",
+    "Description": "French (Mauritania)"
+  },
+  {
+    "Locale Identifier": "fr-MU",
+    "Description": "French (Mauritius)"
+  },
+  {
+    "Locale Identifier": "fr-NC",
+    "Description": "French (New Caledonia)"
+  },
+  {
+    "Locale Identifier": "fr-NE",
+    "Description": "French (Niger)"
+  },
+  {
+    "Locale Identifier": "fr-PF",
+    "Description": "French (French Polynesia)"
+  },
+  {
+    "Locale Identifier": "fr-PM",
+    "Description": "French (St. Pierre & Miquelon)"
+  },
+  {
+    "Locale Identifier": "fr-RE",
+    "Description": "French (Réunion)"
+  },
+  {
+    "Locale Identifier": "fr-RW",
+    "Description": "French (Rwanda)"
+  },
+  {
+    "Locale Identifier": "fr-SC",
+    "Description": "French (Seychelles)"
+  },
+  {
+    "Locale Identifier": "fr-SN",
+    "Description": "French (Senegal)"
+  },
+  {
+    "Locale Identifier": "fr-SY",
+    "Description": "French (Syria)"
+  },
+  {
+    "Locale Identifier": "fr-TD",
+    "Description": "French (Chad)"
+  },
+  {
+    "Locale Identifier": "fr-TG",
+    "Description": "French (Togo)"
+  },
+  {
+    "Locale Identifier": "fr-TN",
+    "Description": "French (Tunisia)"
+  },
+  {
+    "Locale Identifier": "fr-VU",
+    "Description": "French (Vanuatu)"
+  },
+  {
+    "Locale Identifier": "fr-WF",
+    "Description": "French (Wallis & Futuna)"
+  },
+  {
+    "Locale Identifier": "fr-YT",
+    "Description": "French (Mayotte)"
+  },
+  {
+    "Locale Identifier": "fur",
+    "Description": "Friulian"
+  },
+  {
+    "Locale Identifier": "fur-IT",
+    "Description": "Friulian (Italy)"
+  },
+  {
+    "Locale Identifier": "fy",
+    "Description": "Western Frisian"
+  },
+  {
+    "Locale Identifier": "fy-NL",
+    "Description": "Western Frisian (Netherlands)"
+  },
+  {
+    "Locale Identifier": "ga",
+    "Description": "Irish"
+  },
+  {
+    "Locale Identifier": "ga-IE",
+    "Description": "Irish (Ireland)"
+  },
+  {
+    "Locale Identifier": "gd",
+    "Description": "Scottish Gaelic"
+  },
+  {
+    "Locale Identifier": "gd-GB",
+    "Description": "Scottish Gaelic (United Kingdom)"
+  },
+  {
+    "Locale Identifier": "gl",
+    "Description": "Galician"
+  },
+  {
+    "Locale Identifier": "gl-ES",
+    "Description": "Galician (Spain)"
+  },
+  {
+    "Locale Identifier": "gsw",
+    "Description": "Swiss German"
+  },
+  {
+    "Locale Identifier": "gsw-CH",
+    "Description": "Swiss German (Switzerland)"
+  },
+  {
+    "Locale Identifier": "gsw-FR",
+    "Description": "Swiss German (France)"
+  },
+  {
+    "Locale Identifier": "gsw-LI",
+    "Description": "Swiss German (Liechtenstein)"
+  },
+  {
+    "Locale Identifier": "gu",
+    "Description": "Gujarati"
+  },
+  {
+    "Locale Identifier": "gu-IN",
+    "Description": "Gujarati (India)"
+  },
+  {
+    "Locale Identifier": "guz",
+    "Description": "Gusii"
+  },
+  {
+    "Locale Identifier": "guz-KE",
+    "Description": "Gusii (Kenya)"
+  },
+  {
+    "Locale Identifier": "gv",
+    "Description": "Manx"
+  },
+  {
+    "Locale Identifier": "gv-IM",
+    "Description": "Manx (Isle of Man)"
+  },
+  {
+    "Locale Identifier": "ha",
+    "Description": "Hausa"
+  },
+  {
+    "Locale Identifier": "ha-Latn",
+    "Description": "Hausa (Latin)"
+  },
+  {
+    "Locale Identifier": "ha-Latn-GH",
+    "Description": "Hausa (Latin, Ghana)"
+  },
+  {
+    "Locale Identifier": "ha-Latn-NE",
+    "Description": "Hausa (Latin, Niger)"
+  },
+  {
+    "Locale Identifier": "ha-Latn-NG",
+    "Description": "Hausa (Latin, Nigeria)"
+  },
+  {
+    "Locale Identifier": "haw",
+    "Description": "Hawaiian"
+  },
+  {
+    "Locale Identifier": "haw-US",
+    "Description": "Hawaiian (United States)"
+  },
+  {
+    "Locale Identifier": "he",
+    "Description": "Hebrew"
+  },
+  {
+    "Locale Identifier": "he-IL",
+    "Description": "Hebrew (Israel)"
+  },
+  {
+    "Locale Identifier": "hi",
+    "Description": "Hindi"
+  },
+  {
+    "Locale Identifier": "hi-IN",
+    "Description": "Hindi (India)"
+  },
+  {
+    "Locale Identifier": "hr",
+    "Description": "Croatian"
+  },
+  {
+    "Locale Identifier": "hr-BA",
+    "Description": "Croatian (Bosnia & Herzegovina)"
+  },
+  {
+    "Locale Identifier": "hr-HR",
+    "Description": "Croatian (Croatia)"
+  },
+  {
+    "Locale Identifier": "hsb",
+    "Description": "Upper Sorbian"
+  },
+  {
+    "Locale Identifier": "hsb-DE",
+    "Description": "Upper Sorbian (Germany)"
+  },
+  {
+    "Locale Identifier": "hu",
+    "Description": "Hungarian"
+  },
+  {
+    "Locale Identifier": "hu-HU",
+    "Description": "Hungarian (Hungary)"
+  },
+  {
+    "Locale Identifier": "hy",
+    "Description": "Armenian"
+  },
+  {
+    "Locale Identifier": "hy-AM",
+    "Description": "Armenian (Armenia)"
+  },
+  {
+    "Locale Identifier": "id",
+    "Description": "Indonesian"
+  },
+  {
+    "Locale Identifier": "id-ID",
+    "Description": "Indonesian (Indonesia)"
+  },
+  {
+    "Locale Identifier": "ig",
+    "Description": "Igbo"
+  },
+  {
+    "Locale Identifier": "ig-NG",
+    "Description": "Igbo (Nigeria)"
+  },
+  {
+    "Locale Identifier": "ii",
+    "Description": "Sichuan Yi"
+  },
+  {
+    "Locale Identifier": "ii-CN",
+    "Description": "Sichuan Yi (China)"
+  },
+  {
+    "Locale Identifier": "is",
+    "Description": "Icelandic"
+  },
+  {
+    "Locale Identifier": "is-IS",
+    "Description": "Icelandic (Iceland)"
+  },
+  {
+    "Locale Identifier": "it",
+    "Description": "Italian"
+  },
+  {
+    "Locale Identifier": "it-CH",
+    "Description": "Italian (Switzerland)"
+  },
+  {
+    "Locale Identifier": "it-IT",
+    "Description": "Italian (Italy)"
+  },
+  {
+    "Locale Identifier": "it-SM",
+    "Description": "Italian (San Marino)"
+  },
+  {
+    "Locale Identifier": "iu",
+    "Description": "Inuktitut"
+  },
+  {
+    "Locale Identifier": "iu-Cans",
+    "Description": "Inuktitut (Unified Canadian Aboriginal Syllabics)"
+  },
+  {
+    "Locale Identifier": "iu-Cans-CA",
+    "Description": "Inuktitut (Unified Canadian Aboriginal Syllabics, Canada)"
+  },
+  {
+    "Locale Identifier": "ja",
+    "Description": "Japanese"
+  },
+  {
+    "Locale Identifier": "ja-JP",
+    "Description": "Japanese (Japan)"
+  },
+  {
+    "Locale Identifier": "jgo",
+    "Description": "Ngomba"
+  },
+  {
+    "Locale Identifier": "jgo-CM",
+    "Description": "Ngomba (Cameroon)"
+  },
+  {
+    "Locale Identifier": "jmc",
+    "Description": "Machame"
+  },
+  {
+    "Locale Identifier": "jmc-TZ",
+    "Description": "Machame (Tanzania)"
+  },
+  {
+    "Locale Identifier": "ka",
+    "Description": "Georgian"
+  },
+  {
+    "Locale Identifier": "ka-GE",
+    "Description": "Georgian (Georgia)"
+  },
+  {
+    "Locale Identifier": "kab",
+    "Description": "Kabyle"
+  },
+  {
+    "Locale Identifier": "kab-DZ",
+    "Description": "Kabyle (Algeria)"
+  },
+  {
+    "Locale Identifier": "kam",
+    "Description": "Kamba"
+  },
+  {
+    "Locale Identifier": "kam-KE",
+    "Description": "Kamba (Kenya)"
+  },
+  {
+    "Locale Identifier": "kde",
+    "Description": "Makonde"
+  },
+  {
+    "Locale Identifier": "kde-TZ",
+    "Description": "Makonde (Tanzania)"
+  },
+  {
+    "Locale Identifier": "kea",
+    "Description": "Kabuverdianu"
+  },
+  {
+    "Locale Identifier": "kea-CV",
+    "Description": "Kabuverdianu (Cape Verde)"
+  },
+  {
+    "Locale Identifier": "khq",
+    "Description": "Koyra Chiini"
+  },
+  {
+    "Locale Identifier": "khq-ML",
+    "Description": "Koyra Chiini (Mali)"
+  },
+  {
+    "Locale Identifier": "ki",
+    "Description": "Kikuyu"
+  },
+  {
+    "Locale Identifier": "ki-KE",
+    "Description": "Kikuyu (Kenya)"
+  },
+  {
+    "Locale Identifier": "kk",
+    "Description": "Kazakh"
+  },
+  {
+    "Locale Identifier": "kk-Cyrl",
+    "Description": "Kazakh (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "kk-Cyrl-KZ",
+    "Description": "Kazakh (Cyrillic, Kazakhstan)"
+  },
+  {
+    "Locale Identifier": "kkj",
+    "Description": "Kako"
+  },
+  {
+    "Locale Identifier": "kkj-CM",
+    "Description": "Kako (Cameroon)"
+  },
+  {
+    "Locale Identifier": "kl",
+    "Description": "Kalaallisut"
+  },
+  {
+    "Locale Identifier": "kl-GL",
+    "Description": "Kalaallisut (Greenland)"
+  },
+  {
+    "Locale Identifier": "kln",
+    "Description": "Kalenjin"
+  },
+  {
+    "Locale Identifier": "kln-KE",
+    "Description": "Kalenjin (Kenya)"
+  },
+  {
+    "Locale Identifier": "km",
+    "Description": "Khmer"
+  },
+  {
+    "Locale Identifier": "km-KH",
+    "Description": "Khmer (Cambodia)"
+  },
+  {
+    "Locale Identifier": "kn",
+    "Description": "Kannada"
+  },
+  {
+    "Locale Identifier": "kn-IN",
+    "Description": "Kannada (India)"
+  },
+  {
+    "Locale Identifier": "ko",
+    "Description": "Korean"
+  },
+  {
+    "Locale Identifier": "ko-KP",
+    "Description": "Korean (North Korea)"
+  },
+  {
+    "Locale Identifier": "ko-KR",
+    "Description": "Korean (South Korea)"
+  },
+  {
+    "Locale Identifier": "kok",
+    "Description": "Konkani"
+  },
+  {
+    "Locale Identifier": "kok-IN",
+    "Description": "Konkani (India)"
+  },
+  {
+    "Locale Identifier": "ks",
+    "Description": "Kashmiri"
+  },
+  {
+    "Locale Identifier": "ks-Arab",
+    "Description": "Kashmiri (Arabic)"
+  },
+  {
+    "Locale Identifier": "ks-Arab-IN",
+    "Description": "Kashmiri (Arabic, India)"
+  },
+  {
+    "Locale Identifier": "ksb",
+    "Description": "Shambala"
+  },
+  {
+    "Locale Identifier": "ksb-TZ",
+    "Description": "Shambala (Tanzania)"
+  },
+  {
+    "Locale Identifier": "ksf",
+    "Description": "Bafia"
+  },
+  {
+    "Locale Identifier": "ksf-CM",
+    "Description": "Bafia (Cameroon)"
+  },
+  {
+    "Locale Identifier": "ksh",
+    "Description": "Colognian"
+  },
+  {
+    "Locale Identifier": "ksh-DE",
+    "Description": "Colognian (Germany)"
+  },
+  {
+    "Locale Identifier": "kw",
+    "Description": "Cornish"
+  },
+  {
+    "Locale Identifier": "kw-GB",
+    "Description": "Cornish (United Kingdom)"
+  },
+  {
+    "Locale Identifier": "ky",
+    "Description": "Kyrgyz"
+  },
+  {
+    "Locale Identifier": "ky-Cyrl",
+    "Description": "Kyrgyz (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "ky-Cyrl-KG",
+    "Description": "Kyrgyz (Cyrillic, Kyrgyzstan)"
+  },
+  {
+    "Locale Identifier": "lag",
+    "Description": "Langi"
+  },
+  {
+    "Locale Identifier": "lag-TZ",
+    "Description": "Langi (Tanzania)"
+  },
+  {
+    "Locale Identifier": "lb",
+    "Description": "Luxembourgish"
+  },
+  {
+    "Locale Identifier": "lb-LU",
+    "Description": "Luxembourgish (Luxembourg)"
+  },
+  {
+    "Locale Identifier": "lg",
+    "Description": "Ganda"
+  },
+  {
+    "Locale Identifier": "lg-UG",
+    "Description": "Ganda (Uganda)"
+  },
+  {
+    "Locale Identifier": "lkt",
+    "Description": "Lakota"
+  },
+  {
+    "Locale Identifier": "lkt-US",
+    "Description": "Lakota (United States)"
+  },
+  {
+    "Locale Identifier": "ln",
+    "Description": "Lingala"
+  },
+  {
+    "Locale Identifier": "ln-AO",
+    "Description": "Lingala (Angola)"
+  },
+  {
+    "Locale Identifier": "ln-CD",
+    "Description": "Lingala (Congo - Kinshasa)"
+  },
+  {
+    "Locale Identifier": "ln-CF",
+    "Description": "Lingala (Central African Republic)"
+  },
+  {
+    "Locale Identifier": "ln-CG",
+    "Description": "Lingala (Congo - Brazzaville)"
+  },
+  {
+    "Locale Identifier": "lo",
+    "Description": "Lao"
+  },
+  {
+    "Locale Identifier": "lo-LA",
+    "Description": "Lao (Laos)"
+  },
+  {
+    "Locale Identifier": "localeIdentifier",
+    "Description": "Description"
+  },
+  {
+    "Locale Identifier": "lt",
+    "Description": "Lithuanian"
+  },
+  {
+    "Locale Identifier": "lt-LT",
+    "Description": "Lithuanian (Lithuania)"
+  },
+  {
+    "Locale Identifier": "lu",
+    "Description": "Luba-Katanga"
+  },
+  {
+    "Locale Identifier": "lu-CD",
+    "Description": "Luba-Katanga (Congo - Kinshasa)"
+  },
+  {
+    "Locale Identifier": "luo",
+    "Description": "Luo"
+  },
+  {
+    "Locale Identifier": "luo-KE",
+    "Description": "Luo (Kenya)"
+  },
+  {
+    "Locale Identifier": "luy",
+    "Description": "Luyia"
+  },
+  {
+    "Locale Identifier": "luy-KE",
+    "Description": "Luyia (Kenya)"
+  },
+  {
+    "Locale Identifier": "lv",
+    "Description": "Latvian"
+  },
+  {
+    "Locale Identifier": "lv-LV",
+    "Description": "Latvian (Latvia)"
+  },
+  {
+    "Locale Identifier": "mas",
+    "Description": "Masai"
+  },
+  {
+    "Locale Identifier": "mas-KE",
+    "Description": "Masai (Kenya)"
+  },
+  {
+    "Locale Identifier": "mas-TZ",
+    "Description": "Masai (Tanzania)"
+  },
+  {
+    "Locale Identifier": "mer",
+    "Description": "Meru"
+  },
+  {
+    "Locale Identifier": "mer-KE",
+    "Description": "Meru (Kenya)"
+  },
+  {
+    "Locale Identifier": "mfe",
+    "Description": "Morisyen"
+  },
+  {
+    "Locale Identifier": "mfe-MU",
+    "Description": "Morisyen (Mauritius)"
+  },
+  {
+    "Locale Identifier": "mg",
+    "Description": "Malagasy"
+  },
+  {
+    "Locale Identifier": "mg-MG",
+    "Description": "Malagasy (Madagascar)"
+  },
+  {
+    "Locale Identifier": "mgh",
+    "Description": "Makhuwa-Meetto"
+  },
+  {
+    "Locale Identifier": "mgh-MZ",
+    "Description": "Makhuwa-Meetto (Mozambique)"
+  },
+  {
+    "Locale Identifier": "mgo",
+    "Description": "Metaʼ"
+  },
+  {
+    "Locale Identifier": "mgo-CM",
+    "Description": "Metaʼ (Cameroon)"
+  },
+  {
+    "Locale Identifier": "mk",
+    "Description": "Macedonian"
+  },
+  {
+    "Locale Identifier": "mk-MK",
+    "Description": "Macedonian (Macedonia)"
+  },
+  {
+    "Locale Identifier": "ml",
+    "Description": "Malayalam"
+  },
+  {
+    "Locale Identifier": "ml-IN",
+    "Description": "Malayalam (India)"
+  },
+  {
+    "Locale Identifier": "mn",
+    "Description": "Mongolian"
+  },
+  {
+    "Locale Identifier": "mn-Cyrl",
+    "Description": "Mongolian (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "mn-Cyrl-MN",
+    "Description": "Mongolian (Cyrillic, Mongolia)"
+  },
+  {
+    "Locale Identifier": "mr",
+    "Description": "Marathi"
+  },
+  {
+    "Locale Identifier": "mr-IN",
+    "Description": "Marathi (India)"
+  },
+  {
+    "Locale Identifier": "ms",
+    "Description": "Malay"
+  },
+  {
+    "Locale Identifier": "ms-Arab",
+    "Description": "Malay (Arabic)"
+  },
+  {
+    "Locale Identifier": "ms-Arab-BN",
+    "Description": "Malay (Arabic, Brunei)"
+  },
+  {
+    "Locale Identifier": "ms-Arab-MY",
+    "Description": "Malay (Arabic, Malaysia)"
+  },
+  {
+    "Locale Identifier": "ms-Latn",
+    "Description": "Malay (Latin)"
+  },
+  {
+    "Locale Identifier": "ms-Latn-BN",
+    "Description": "Malay (Latin, Brunei)"
+  },
+  {
+    "Locale Identifier": "ms-Latn-MY",
+    "Description": "Malay (Latin, Malaysia)"
+  },
+  {
+    "Locale Identifier": "ms-Latn-SG",
+    "Description": "Malay (Latin, Singapore)"
+  },
+  {
+    "Locale Identifier": "mt",
+    "Description": "Maltese"
+  },
+  {
+    "Locale Identifier": "mt-MT",
+    "Description": "Maltese (Malta)"
+  },
+  {
+    "Locale Identifier": "mua",
+    "Description": "Mundang"
+  },
+  {
+    "Locale Identifier": "mua-CM",
+    "Description": "Mundang (Cameroon)"
+  },
+  {
+    "Locale Identifier": "my",
+    "Description": "Burmese"
+  },
+  {
+    "Locale Identifier": "my-MM",
+    "Description": "Burmese (Myanmar [Burma])"
+  },
+  {
+    "Locale Identifier": "naq",
+    "Description": "Nama"
+  },
+  {
+    "Locale Identifier": "naq-NA",
+    "Description": "Nama (Namibia)"
+  },
+  {
+    "Locale Identifier": "nb",
+    "Description": "Norwegian Bokmål"
+  },
+  {
+    "Locale Identifier": "nb-NO",
+    "Description": "Norwegian Bokmål (Norway)"
+  },
+  {
+    "Locale Identifier": "nb-SJ",
+    "Description": "Norwegian Bokmål (Svalbard & Jan Mayen)"
+  },
+  {
+    "Locale Identifier": "nd",
+    "Description": "North Ndebele"
+  },
+  {
+    "Locale Identifier": "nd-ZW",
+    "Description": "North Ndebele (Zimbabwe)"
+  },
+  {
+    "Locale Identifier": "ne",
+    "Description": "Nepali"
+  },
+  {
+    "Locale Identifier": "ne-IN",
+    "Description": "Nepali (India)"
+  },
+  {
+    "Locale Identifier": "ne-NP",
+    "Description": "Nepali (Nepal)"
+  },
+  {
+    "Locale Identifier": "nl",
+    "Description": "Dutch"
+  },
+  {
+    "Locale Identifier": "nl-AW",
+    "Description": "Dutch (Aruba)"
+  },
+  {
+    "Locale Identifier": "nl-BE",
+    "Description": "Dutch (Belgium)"
+  },
+  {
+    "Locale Identifier": "nl-BQ",
+    "Description": "Dutch (Caribbean Netherlands)"
+  },
+  {
+    "Locale Identifier": "nl-CW",
+    "Description": "Dutch (Curaçao)"
+  },
+  {
+    "Locale Identifier": "nl-NL",
+    "Description": "Dutch (Netherlands)"
+  },
+  {
+    "Locale Identifier": "nl-SR",
+    "Description": "Dutch (Suriname)"
+  },
+  {
+    "Locale Identifier": "nl-SX",
+    "Description": "Dutch (Sint Maarten)"
+  },
+  {
+    "Locale Identifier": "nmg",
+    "Description": "Kwasio"
+  },
+  {
+    "Locale Identifier": "nmg-CM",
+    "Description": "Kwasio (Cameroon)"
+  },
+  {
+    "Locale Identifier": "nn",
+    "Description": "Norwegian Nynorsk"
+  },
+  {
+    "Locale Identifier": "nn-NO",
+    "Description": "Norwegian Nynorsk (Norway)"
+  },
+  {
+    "Locale Identifier": "nnh",
+    "Description": "Ngiemboon"
+  },
+  {
+    "Locale Identifier": "nnh-CM",
+    "Description": "Ngiemboon (Cameroon)"
+  },
+  {
+    "Locale Identifier": "nus",
+    "Description": "Nuer"
+  },
+  {
+    "Locale Identifier": "nus-SD",
+    "Description": "Nuer (Sudan)"
+  },
+  {
+    "Locale Identifier": "nyn",
+    "Description": "Nyankole"
+  },
+  {
+    "Locale Identifier": "nyn-UG",
+    "Description": "Nyankole (Uganda)"
+  },
+  {
+    "Locale Identifier": "om",
+    "Description": "Oromo"
+  },
+  {
+    "Locale Identifier": "om-ET",
+    "Description": "Oromo (Ethiopia)"
+  },
+  {
+    "Locale Identifier": "om-KE",
+    "Description": "Oromo (Kenya)"
+  },
+  {
+    "Locale Identifier": "or",
+    "Description": "Oriya"
+  },
+  {
+    "Locale Identifier": "or-IN",
+    "Description": "Oriya (India)"
+  },
+  {
+    "Locale Identifier": "os",
+    "Description": "Ossetic"
+  },
+  {
+    "Locale Identifier": "os-GE",
+    "Description": "Ossetic (Georgia)"
+  },
+  {
+    "Locale Identifier": "os-RU",
+    "Description": "Ossetic (Russia)"
+  },
+  {
+    "Locale Identifier": "pa",
+    "Description": "Punjabi"
+  },
+  {
+    "Locale Identifier": "pa-Arab",
+    "Description": "Punjabi (Arabic)"
+  },
+  {
+    "Locale Identifier": "pa-Arab-PK",
+    "Description": "Punjabi (Arabic, Pakistan)"
+  },
+  {
+    "Locale Identifier": "pa-Guru",
+    "Description": "Punjabi (Gurmukhi)"
+  },
+  {
+    "Locale Identifier": "pa-Guru-IN",
+    "Description": "Punjabi (Gurmukhi, India)"
+  },
+  {
+    "Locale Identifier": "pl",
+    "Description": "Polish"
+  },
+  {
+    "Locale Identifier": "pl-PL",
+    "Description": "Polish (Poland)"
+  },
+  {
+    "Locale Identifier": "ps",
+    "Description": "Pashto"
+  },
+  {
+    "Locale Identifier": "ps-AF",
+    "Description": "Pashto (Afghanistan)"
+  },
+  {
+    "Locale Identifier": "pt",
+    "Description": "Portuguese"
+  },
+  {
+    "Locale Identifier": "pt-AO",
+    "Description": "Portuguese (Angola)"
+  },
+  {
+    "Locale Identifier": "pt-BR",
+    "Description": "Portuguese (Brazil)"
+  },
+  {
+    "Locale Identifier": "pt-CV",
+    "Description": "Portuguese (Cape Verde)"
+  },
+  {
+    "Locale Identifier": "pt-GW",
+    "Description": "Portuguese (Guinea-Bissau)"
+  },
+  {
+    "Locale Identifier": "pt-MO",
+    "Description": "Portuguese (Macau SAR China)"
+  },
+  {
+    "Locale Identifier": "pt-MZ",
+    "Description": "Portuguese (Mozambique)"
+  },
+  {
+    "Locale Identifier": "pt-PT",
+    "Description": "Portuguese (Portugal)"
+  },
+  {
+    "Locale Identifier": "pt-ST",
+    "Description": "Portuguese (São Tomé & Príncipe)"
+  },
+  {
+    "Locale Identifier": "pt-TL",
+    "Description": "Portuguese (Timor-Leste)"
+  },
+  {
+    "Locale Identifier": "qu",
+    "Description": "Quechua"
+  },
+  {
+    "Locale Identifier": "qu-BO",
+    "Description": "Quechua (Bolivia)"
+  },
+  {
+    "Locale Identifier": "qu-EC",
+    "Description": "Quechua (Ecuador)"
+  },
+  {
+    "Locale Identifier": "qu-PE",
+    "Description": "Quechua (Peru)"
+  },
+  {
+    "Locale Identifier": "rm",
+    "Description": "Romansh"
+  },
+  {
+    "Locale Identifier": "rm-CH",
+    "Description": "Romansh (Switzerland)"
+  },
+  {
+    "Locale Identifier": "rn",
+    "Description": "Rundi"
+  },
+  {
+    "Locale Identifier": "rn-BI",
+    "Description": "Rundi (Burundi)"
+  },
+  {
+    "Locale Identifier": "ro",
+    "Description": "Romanian"
+  },
+  {
+    "Locale Identifier": "ro-MD",
+    "Description": "Romanian (Moldova)"
+  },
+  {
+    "Locale Identifier": "ro-RO",
+    "Description": "Romanian (Romania)"
+  },
+  {
+    "Locale Identifier": "rof",
+    "Description": "Rombo"
+  },
+  {
+    "Locale Identifier": "rof-TZ",
+    "Description": "Rombo (Tanzania)"
+  },
+  {
+    "Locale Identifier": "ru",
+    "Description": "Russian"
+  },
+  {
+    "Locale Identifier": "ru-BY",
+    "Description": "Russian (Belarus)"
+  },
+  {
+    "Locale Identifier": "ru-KG",
+    "Description": "Russian (Kyrgyzstan)"
+  },
+  {
+    "Locale Identifier": "ru-KZ",
+    "Description": "Russian (Kazakhstan)"
+  },
+  {
+    "Locale Identifier": "ru-MD",
+    "Description": "Russian (Moldova)"
+  },
+  {
+    "Locale Identifier": "ru-RU",
+    "Description": "Russian (Russia)"
+  },
+  {
+    "Locale Identifier": "ru-UA",
+    "Description": "Russian (Ukraine)"
+  },
+  {
+    "Locale Identifier": "rw",
+    "Description": "Kinyarwanda"
+  },
+  {
+    "Locale Identifier": "rw-RW",
+    "Description": "Kinyarwanda (Rwanda)"
+  },
+  {
+    "Locale Identifier": "rwk",
+    "Description": "Rwa"
+  },
+  {
+    "Locale Identifier": "rwk-TZ",
+    "Description": "Rwa (Tanzania)"
+  },
+  {
+    "Locale Identifier": "sah",
+    "Description": "Sakha"
+  },
+  {
+    "Locale Identifier": "sah-RU",
+    "Description": "Sakha (Russia)"
+  },
+  {
+    "Locale Identifier": "saq",
+    "Description": "Samburu"
+  },
+  {
+    "Locale Identifier": "saq-KE",
+    "Description": "Samburu (Kenya)"
+  },
+  {
+    "Locale Identifier": "sbp",
+    "Description": "Sangu"
+  },
+  {
+    "Locale Identifier": "sbp-TZ",
+    "Description": "Sangu (Tanzania)"
+  },
+  {
+    "Locale Identifier": "se",
+    "Description": "Northern Sami"
+  },
+  {
+    "Locale Identifier": "se-FI",
+    "Description": "Northern Sami (Finland)"
+  },
+  {
+    "Locale Identifier": "se-NO",
+    "Description": "Northern Sami (Norway)"
+  },
+  {
+    "Locale Identifier": "se-SE",
+    "Description": "Northern Sami (Sweden)"
+  },
+  {
+    "Locale Identifier": "seh",
+    "Description": "Sena"
+  },
+  {
+    "Locale Identifier": "seh-MZ",
+    "Description": "Sena (Mozambique)"
+  },
+  {
+    "Locale Identifier": "ses",
+    "Description": "Koyraboro Senni"
+  },
+  {
+    "Locale Identifier": "ses-ML",
+    "Description": "Koyraboro Senni (Mali)"
+  },
+  {
+    "Locale Identifier": "sg",
+    "Description": "Sango"
+  },
+  {
+    "Locale Identifier": "sg-CF",
+    "Description": "Sango (Central African Republic)"
+  },
+  {
+    "Locale Identifier": "shi",
+    "Description": "Tachelhit"
+  },
+  {
+    "Locale Identifier": "shi-Latn",
+    "Description": "Tachelhit (Latin)"
+  },
+  {
+    "Locale Identifier": "shi-Latn-MA",
+    "Description": "Tachelhit (Latin, Morocco)"
+  },
+  {
+    "Locale Identifier": "shi-Tfng",
+    "Description": "Tachelhit (Tifinagh)"
+  },
+  {
+    "Locale Identifier": "shi-Tfng-MA",
+    "Description": "Tachelhit (Tifinagh, Morocco)"
+  },
+  {
+    "Locale Identifier": "si",
+    "Description": "Sinhala"
+  },
+  {
+    "Locale Identifier": "si-LK",
+    "Description": "Sinhala (Sri Lanka)"
+  },
+  {
+    "Locale Identifier": "sk",
+    "Description": "Slovak"
+  },
+  {
+    "Locale Identifier": "sk-SK",
+    "Description": "Slovak (Slovakia)"
+  },
+  {
+    "Locale Identifier": "sl",
+    "Description": "Slovenian"
+  },
+  {
+    "Locale Identifier": "sl-SI",
+    "Description": "Slovenian (Slovenia)"
+  },
+  {
+    "Locale Identifier": "smn",
+    "Description": "Inari Sami"
+  },
+  {
+    "Locale Identifier": "smn-FI",
+    "Description": "Inari Sami (Finland)"
+  },
+  {
+    "Locale Identifier": "sn",
+    "Description": "Shona"
+  },
+  {
+    "Locale Identifier": "sn-ZW",
+    "Description": "Shona (Zimbabwe)"
+  },
+  {
+    "Locale Identifier": "so",
+    "Description": "Somali"
+  },
+  {
+    "Locale Identifier": "so-DJ",
+    "Description": "Somali (Djibouti)"
+  },
+  {
+    "Locale Identifier": "so-ET",
+    "Description": "Somali (Ethiopia)"
+  },
+  {
+    "Locale Identifier": "so-KE",
+    "Description": "Somali (Kenya)"
+  },
+  {
+    "Locale Identifier": "so-SO",
+    "Description": "Somali (Somalia)"
+  },
+  {
+    "Locale Identifier": "sq",
+    "Description": "Albanian"
+  },
+  {
+    "Locale Identifier": "sq-AL",
+    "Description": "Albanian (Albania)"
+  },
+  {
+    "Locale Identifier": "sq-MK",
+    "Description": "Albanian (Macedonia)"
+  },
+  {
+    "Locale Identifier": "sq-XK",
+    "Description": "Albanian (Kosovo)"
+  },
+  {
+    "Locale Identifier": "sr",
+    "Description": "Serbian"
+  },
+  {
+    "Locale Identifier": "sr-Cyrl",
+    "Description": "Serbian (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "sr-Cyrl-BA",
+    "Description": "Serbian (Cyrillic, Bosnia & Herzegovina)"
+  },
+  {
+    "Locale Identifier": "sr-Cyrl-ME",
+    "Description": "Serbian (Cyrillic, Montenegro)"
+  },
+  {
+    "Locale Identifier": "sr-Cyrl-RS",
+    "Description": "Serbian (Cyrillic, Serbia)"
+  },
+  {
+    "Locale Identifier": "sr-Cyrl-XK",
+    "Description": "Serbian (Cyrillic, Kosovo)"
+  },
+  {
+    "Locale Identifier": "sr-Latn",
+    "Description": "Serbian (Latin)"
+  },
+  {
+    "Locale Identifier": "sr-Latn-BA",
+    "Description": "Serbian (Latin, Bosnia & Herzegovina)"
+  },
+  {
+    "Locale Identifier": "sr-Latn-ME",
+    "Description": "Serbian (Latin, Montenegro)"
+  },
+  {
+    "Locale Identifier": "sr-Latn-RS",
+    "Description": "Serbian (Latin, Serbia)"
+  },
+  {
+    "Locale Identifier": "sr-Latn-XK",
+    "Description": "Serbian (Latin, Kosovo)"
+  },
+  {
+    "Locale Identifier": "sv",
+    "Description": "Swedish"
+  },
+  {
+    "Locale Identifier": "sv-AX",
+    "Description": "Swedish (Åland Islands)"
+  },
+  {
+    "Locale Identifier": "sv-FI",
+    "Description": "Swedish (Finland)"
+  },
+  {
+    "Locale Identifier": "sv-SE",
+    "Description": "Swedish (Sweden)"
+  },
+  {
+    "Locale Identifier": "sw",
+    "Description": "Swahili"
+  },
+  {
+    "Locale Identifier": "sw-CD",
+    "Description": "Swahili (Congo - Kinshasa)"
+  },
+  {
+    "Locale Identifier": "sw-KE",
+    "Description": "Swahili (Kenya)"
+  },
+  {
+    "Locale Identifier": "sw-TZ",
+    "Description": "Swahili (Tanzania)"
+  },
+  {
+    "Locale Identifier": "sw-UG",
+    "Description": "Swahili (Uganda)"
+  },
+  {
+    "Locale Identifier": "ta",
+    "Description": "Tamil"
+  },
+  {
+    "Locale Identifier": "ta-IN",
+    "Description": "Tamil (India)"
+  },
+  {
+    "Locale Identifier": "ta-LK",
+    "Description": "Tamil (Sri Lanka)"
+  },
+  {
+    "Locale Identifier": "ta-MY",
+    "Description": "Tamil (Malaysia)"
+  },
+  {
+    "Locale Identifier": "ta-SG",
+    "Description": "Tamil (Singapore)"
+  },
+  {
+    "Locale Identifier": "te",
+    "Description": "Telugu"
+  },
+  {
+    "Locale Identifier": "te-IN",
+    "Description": "Telugu (India)"
+  },
+  {
+    "Locale Identifier": "teo",
+    "Description": "Teso"
+  },
+  {
+    "Locale Identifier": "teo-KE",
+    "Description": "Teso (Kenya)"
+  },
+  {
+    "Locale Identifier": "teo-UG",
+    "Description": "Teso (Uganda)"
+  },
+  {
+    "Locale Identifier": "tg",
+    "Description": "Tajik"
+  },
+  {
+    "Locale Identifier": "tg-Cyrl",
+    "Description": "Tajik (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "tg-Cyrl-TJ",
+    "Description": "Tajik (Cyrillic, Tajikistan)"
+  },
+  {
+    "Locale Identifier": "th",
+    "Description": "Thai"
+  },
+  {
+    "Locale Identifier": "th-TH",
+    "Description": "Thai (Thailand)"
+  },
+  {
+    "Locale Identifier": "ti",
+    "Description": "Tigrinya"
+  },
+  {
+    "Locale Identifier": "ti-ER",
+    "Description": "Tigrinya (Eritrea)"
+  },
+  {
+    "Locale Identifier": "ti-ET",
+    "Description": "Tigrinya (Ethiopia)"
+  },
+  {
+    "Locale Identifier": "tk",
+    "Description": "Turkmen"
+  },
+  {
+    "Locale Identifier": "tk-Latn",
+    "Description": "Turkmen (Latin)"
+  },
+  {
+    "Locale Identifier": "tk-Latn-TM",
+    "Description": "Turkmen (Latin, Turkmenistan)"
+  },
+  {
+    "Locale Identifier": "to",
+    "Description": "Tongan"
+  },
+  {
+    "Locale Identifier": "to-TO",
+    "Description": "Tongan (Tonga)"
+  },
+  {
+    "Locale Identifier": "tr",
+    "Description": "Turkish"
+  },
+  {
+    "Locale Identifier": "tr-CY",
+    "Description": "Turkish (Cyprus)"
+  },
+  {
+    "Locale Identifier": "tr-TR",
+    "Description": "Turkish (Turkey)"
+  },
+  {
+    "Locale Identifier": "twq",
+    "Description": "Tasawaq"
+  },
+  {
+    "Locale Identifier": "twq-NE",
+    "Description": "Tasawaq (Niger)"
+  },
+  {
+    "Locale Identifier": "tzm",
+    "Description": "Central Atlas Tamazight"
+  },
+  {
+    "Locale Identifier": "tzm-Latn",
+    "Description": "Central Atlas Tamazight (Latin)"
+  },
+  {
+    "Locale Identifier": "tzm-Latn-MA",
+    "Description": "Central Atlas Tamazight (Latin, Morocco)"
+  },
+  {
+    "Locale Identifier": "ug",
+    "Description": "Uyghur"
+  },
+  {
+    "Locale Identifier": "ug-Arab",
+    "Description": "Uyghur (Arabic)"
+  },
+  {
+    "Locale Identifier": "ug-Arab-CN",
+    "Description": "Uyghur (Arabic, China)"
+  },
+  {
+    "Locale Identifier": "uk",
+    "Description": "Ukrainian"
+  },
+  {
+    "Locale Identifier": "uk-UA",
+    "Description": "Ukrainian (Ukraine)"
+  },
+  {
+    "Locale Identifier": "ur",
+    "Description": "Urdu"
+  },
+  {
+    "Locale Identifier": "ur-IN",
+    "Description": "Urdu (India)"
+  },
+  {
+    "Locale Identifier": "ur-PK",
+    "Description": "Urdu (Pakistan)"
+  },
+  {
+    "Locale Identifier": "uz",
+    "Description": "Uzbek"
+  },
+  {
+    "Locale Identifier": "uz-Arab",
+    "Description": "Uzbek (Arabic)"
+  },
+  {
+    "Locale Identifier": "uz-Arab-AF",
+    "Description": "Uzbek (Arabic, Afghanistan)"
+  },
+  {
+    "Locale Identifier": "uz-Cyrl",
+    "Description": "Uzbek (Cyrillic)"
+  },
+  {
+    "Locale Identifier": "uz-Cyrl-UZ",
+    "Description": "Uzbek (Cyrillic, Uzbekistan)"
+  },
+  {
+    "Locale Identifier": "uz-Latn",
+    "Description": "Uzbek (Latin)"
+  },
+  {
+    "Locale Identifier": "uz-Latn-UZ",
+    "Description": "Uzbek (Latin, Uzbekistan)"
+  },
+  {
+    "Locale Identifier": "vai",
+    "Description": "Vai"
+  },
+  {
+    "Locale Identifier": "vai-Latn",
+    "Description": "Vai (Latin)"
+  },
+  {
+    "Locale Identifier": "vai-Latn-LR",
+    "Description": "Vai (Latin, Liberia)"
+  },
+  {
+    "Locale Identifier": "vai-Vaii",
+    "Description": "Vai (Vai)"
+  },
+  {
+    "Locale Identifier": "vai-Vaii-LR",
+    "Description": "Vai (Vai, Liberia)"
+  },
+  {
+    "Locale Identifier": "vi",
+    "Description": "Vietnamese"
+  },
+  {
+    "Locale Identifier": "vi-VN",
+    "Description": "Vietnamese (Vietnam)"
+  },
+  {
+    "Locale Identifier": "vun",
+    "Description": "Vunjo"
+  },
+  {
+    "Locale Identifier": "vun-TZ",
+    "Description": "Vunjo (Tanzania)"
+  },
+  {
+    "Locale Identifier": "wae",
+    "Description": "Walser"
+  },
+  {
+    "Locale Identifier": "wae-CH",
+    "Description": "Walser (Switzerland)"
+  },
+  {
+    "Locale Identifier": "xog",
+    "Description": "Soga"
+  },
+  {
+    "Locale Identifier": "xog-UG",
+    "Description": "Soga (Uganda)"
+  },
+  {
+    "Locale Identifier": "yav",
+    "Description": "Yangben"
+  },
+  {
+    "Locale Identifier": "yav-CM",
+    "Description": "Yangben (Cameroon)"
+  },
+  {
+    "Locale Identifier": "yi",
+    "Description": "Yiddish"
+  },
+  {
+    "Locale Identifier": "yi-001",
+    "Description": "Yiddish (World)"
+  },
+  {
+    "Locale Identifier": "yo",
+    "Description": "Yoruba"
+  },
+  {
+    "Locale Identifier": "yo-BJ",
+    "Description": "Yoruba (Benin)"
+  },
+  {
+    "Locale Identifier": "yo-NG",
+    "Description": "Yoruba (Nigeria)"
+  },
+  {
+    "Locale Identifier": "zgh",
+    "Description": "Standard Moroccan Tamazight"
+  },
+  {
+    "Locale Identifier": "zgh-MA",
+    "Description": "Standard Moroccan Tamazight (Morocco)"
+  },
+  {
+    "Locale Identifier": "zh",
+    "Description": "Chinese"
+  },
+  {
+    "Locale Identifier": "zh-Hans",
+    "Description": "Chinese (Simplified)"
+  },
+  {
+    "Locale Identifier": "zh-Hans-CN",
+    "Description": "Chinese (Simplified, China)"
+  },
+  {
+    "Locale Identifier": "zh-Hans-HK",
+    "Description": "Chinese (Simplified, Hong Kong SAR China)"
+  },
+  {
+    "Locale Identifier": "zh-Hans-MO",
+    "Description": "Chinese (Simplified, Macau SAR China)"
+  },
+  {
+    "Locale Identifier": "zh-Hans-SG",
+    "Description": "Chinese (Simplified, Singapore)"
+  },
+  {
+    "Locale Identifier": "zh-Hant",
+    "Description": "Chinese (Traditional)"
+  },
+  {
+    "Locale Identifier": "zh-Hant-HK",
+    "Description": "Chinese (Traditional, Hong Kong SAR China)"
+  },
+  {
+    "Locale Identifier": "zh-Hant-MO",
+    "Description": "Chinese (Traditional, Macau SAR China)"
+  },
+  {
+    "Locale Identifier": "zh-Hant-TW",
+    "Description": "Chinese (Traditional, Taiwan)"
+  },
+  {
+    "Locale Identifier": "zu",
+    "Description": "Zulu"
+  },
+  {
+    "Locale Identifier": "zu-ZA",
+    "Description": "Zulu (South Africa)"
+  }
+]
