@@ -1,4 +1,4 @@
-# Internationalization of MindBox (translation of display language)
+# Translation of MindBox display language
 
 > Our [official website address](https://www.mindbox.cc), you can learn more about the content of the inspiration box on the official website
 > 
