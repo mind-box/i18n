@@ -80,6 +80,7 @@
   "favoriteEmptyText": "收藏夹空空...",
   "recycleBinEmptyText": "回收站空空...",
   "labelEmptyText": "该标签下无笔记...",
+  "labelsEmptyText": "点击右上角按钮创建标签~",
   "recoverNote": "恢复笔记",
   "deleteCompletely": "彻底删除",
   "emptyRecycleBin": "清空回收站",
@@ -124,5 +125,8 @@
   "findTotal_one": "，共{{count}}项",
   "findTotal_other": "，共{{count}}项",
   "removeFromFavorites": "从收藏中删除成功",
-  "addToFavorites": "添加到我的收藏成功"
+  "addToFavorites": "添加到我的收藏成功",
+  "exportMarkdownFail": "导出markdown失败",
+  "exportNote": "导出笔记",
+  "showFileInFolder": "在文件夹中显示"
 }

@@ -80,6 +80,7 @@
   "favoriteEmptyText": "Favorites is empty...",
   "recycleBinEmptyText": "Recycle bin is empty...",
   "labelEmptyText": "No note in this tag...",
+  "labelsEmptyText": "Click on the upper right corner to create a label~",
   "recoverNote": "Recover note",
   "deleteCompletely": "Delete completely",
   "emptyRecycleBin": "Empty recycle bin",
@@ -123,6 +124,9 @@
   "findResults_ordinal_other": "{{count}}th",
   "findTotal_one": ", {{count}} item",
   "findTotal_other": ", {{count}} items",
-  "removeFromFavorites": "Remove from my favorites",
-  "addToFavorites": "Add to Favorites"
+  "removeFromFavorites": "Remove from favorites",
+  "addToFavorites": "Add to Favorites",
+  "exportMarkdownFail": "Export markdown file failed",
+  "exportNote": "Export Note",
+  "showFileInFolder": "Show file in folder"
 }

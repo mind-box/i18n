@@ -80,6 +80,7 @@
   "favoriteEmptyText": "お気に入りボックスが何もありません...",
   "recycleBinEmptyText": "ゴミ箱が何もありません...",
   "labelEmptyText": "該当ラベルにノートがありません...",
+  "labelsEmptyText": "Click on the upper right corner to create a label~",
   "recoverNote": "ノート復元",
   "deleteCompletely": "永久削除",
   "emptyRecycleBin": "ゴミ箱のすべてを削除",
@@ -122,5 +123,8 @@
   "findResults_ordinal_few": "第{{count}}項目",
   "findResults_ordinal_other": "第{{count}}項目",
   "findTotal_one": "，合計{{count}}項目",
-  "findTotal_other": "，合計{{count}}項目"
+  "findTotal_other": "，合計{{count}}項目",
+  "exportMarkdownFail": "Export markdown file failed",
+  "exportNote": "Export Note",
+  "showFileInFolder": "Show file in folder"
 }
