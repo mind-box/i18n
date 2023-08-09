@@ -124,6 +124,8 @@
   "findResults_ordinal_other": "第{{count}}項目",
   "findTotal_one": "，合計{{count}}項目",
   "findTotal_other": "，合計{{count}}項目",
+  "removeFromFavorites": "Remove from favorites",
+  "addToFavorites": "Add to Favorites",
   "exportMarkdownFail": "Export markdown file failed",
   "exportNote": "Export Note",
   "showFileInFolder": "Show file in folder"
