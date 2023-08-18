@@ -126,7 +126,7 @@
   "findTotal_other": "，合計{{count}}項目",
   "removeFromFavorites": "Remove from favorites",
   "addToFavorites": "Add to Favorites",
-  "exportMarkdownFail": "Export markdown file failed",
+  "exportFileFail": "Export file failed",
   "exportNote": "Export Note",
   "showFileInFolder": "Show file in folder"
 }
