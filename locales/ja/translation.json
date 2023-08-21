@@ -80,7 +80,7 @@
   "favoriteEmptyText": "お気に入りボックスが何もありません...",
   "recycleBinEmptyText": "ゴミ箱が何もありません...",
   "labelEmptyText": "該当ラベルにノートがありません...",
-  "labelsEmptyText": "Click on the upper right corner to create a label~",
+  "labelsEmptyText": "Click on the upper right corner to create a label...",
   "recoverNote": "ノート復元",
   "deleteCompletely": "永久削除",
   "emptyRecycleBin": "ゴミ箱のすべてを削除",
