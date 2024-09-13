@@ -128,5 +128,13 @@
   "addToFavorites": "Add to Favorites",
   "exportFileFail": "Export file failed",
   "exportNote": "Export Note",
-  "showFileInFolder": "Show file in folder"
+  "showFileInFolder": "Show file in folder",
+  "viewNoteInfo": "View note info",
+  "noteInfo": "Note info",
+  "createTime": "Create time",
+  "updateTime": "Update time",
+  "wordCount": "Word count",
+  "charCount": "Character count",
+  "paragraphCount": "Paragraph Count",
+  "contents": "Table of Contents"
 }

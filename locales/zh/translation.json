@@ -128,5 +128,13 @@
   "addToFavorites": "添加到收藏",
   "exportFileFail": "导出文件失败",
   "exportNote": "导出笔记",
-  "showFileInFolder": "在文件夹中显示"
+  "showFileInFolder": "在文件夹中显示",
+  "viewNoteInfo": "查看笔记信息",
+  "noteInfo": "笔记信息",
+  "createTime": "创建时间",
+  "updateTime": "更新时间",
+  "wordCount": "字数",
+  "charCount": "字符",
+  "paragraphCount": "段落",
+  "contents": "目录"
 }
