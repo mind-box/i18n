@@ -136,5 +136,6 @@
   "wordCount": "字数",
   "charCount": "字符",
   "paragraphCount": "段落",
-  "contents": "目录"
+  "contents": "目录",
+  "logout": "登出"
 }
