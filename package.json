@@ -1,7 +1,7 @@
 {
   "name": "@marktext/i18n",
-  "version": "1.0.9",
-  "description": "i18n of MindBox",
+  "version": "1.1.0",
+  "description": "i18n of Inkio",
   "main": "locale-identifiers.json",
   "module": "locale-identifiers.json",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "i18n",
-    "mindbox"
+    "inkio"
   ],
   "author": "ransixi@gmail.com",
   "license": "MIT",
