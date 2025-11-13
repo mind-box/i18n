@@ -140,6 +140,6 @@
   "paragraphCount": "段落",
   "contents": "目录",
   "logout": "登出",
-  "saving": "正在保存...",
-  "saved": "已保存到云端"
+  "saving": "保存中...",
+  "saved": "已保存"
 }
