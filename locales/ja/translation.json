@@ -139,5 +139,7 @@
   "charCount": "Character count",
   "paragraphCount": "Paragraph Count",
   "contents": "Table of Contents",
-  "logout": "Log Out"
+  "logout": "Log Out",
+  "saving": "Saving...",
+  "saved": "Saved to cloud"
 }
